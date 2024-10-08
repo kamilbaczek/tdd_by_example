@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZTM", "ZTM\ZTM.csproj", "{1B93BBFD-54D8-451B-95D9-F3C4574A51C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZTM.UnitTests", "ZTM.UnitTests\ZTM.UnitTests.csproj", "{1EBE24FF-E6A5-49CD-9FE1-7B0A15512DA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZTM.IntegrationTests", "ZTM.IntegrationTests\ZTM.IntegrationTests.csproj", "{8F89C37E-1D01-4140-8B50-226BB6CFE431}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B93BBFD-54D8-451B-95D9-F3C4574A51C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B93BBFD-54D8-451B-95D9-F3C4574A51C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B93BBFD-54D8-451B-95D9-F3C4574A51C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B93BBFD-54D8-451B-95D9-F3C4574A51C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EBE24FF-E6A5-49CD-9FE1-7B0A15512DA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EBE24FF-E6A5-49CD-9FE1-7B0A15512DA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EBE24FF-E6A5-49CD-9FE1-7B0A15512DA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EBE24FF-E6A5-49CD-9FE1-7B0A15512DA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F89C37E-1D01-4140-8B50-226BB6CFE431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F89C37E-1D01-4140-8B50-226BB6CFE431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F89C37E-1D01-4140-8B50-226BB6CFE431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F89C37E-1D01-4140-8B50-226BB6CFE431}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
